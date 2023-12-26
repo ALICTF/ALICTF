@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Reinforcement Learning and front-end languages
 - 💞️ I’m looking to collaborate on front-end projects
 - 📫 How to reach me :
-- Phone Number : +98 993 192 4726
-- telegram  : @Moskha
-- Instagram : MKH.diary
+-    Phone Number : +98 993 192 4726
+-    telegram  : @Moskha
+-    Instagram : MKH.diary
 
 <!---
 ALICTF/ALICTF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
