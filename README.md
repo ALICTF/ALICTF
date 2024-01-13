@@ -1,16 +1,17 @@
 My name is Mostafa Khajenezhad
 ===============================
 
-Developer & Circiut Designer
+Developer & Electronic circuit designer
 -----------------------------
 
 *   🚀  I'm currently learning programming languages such as python , JavaScript , PHP . 
 *   🤝  I'm open to collaborating on Front-End projects and AI Projects .
-*   📫  How to reach me {
-* Phone Number : +98 993 192 4726
-* find me on telegram  : @Moskha
-* find me on instagram  : MKH.diary
-            }
+*   📫  How to reach me 
+*   📫  Phone Number : +98 993 192 4726
+*   📫  find me on telegram  : @Moskha
+*   📫  find me on instagram  : MKH.diary
+
+=============================
 <a href="https://www.github.com/badrnezhad" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/badrnezhad?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
                   
