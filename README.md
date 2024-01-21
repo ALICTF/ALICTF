@@ -1,21 +1,28 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ALICTF">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Mostafa+Khajenezhad....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Im+Mostafa+Khajenezhad....;Developer+Electronic+&+circuit+designer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 ===============================
-
-Developer & Electronic circuit designer
 -----------------------------
-
-*   🚀  I'm currently learning programming languages such as python , JavaScript , PHP . 
-*   🤝  I'm open to collaborating on Front-End projects and AI Projects .
-*   📫  How to reach me 
-*   📫  Phone Number : +98 993 192 4726
-*   📫  find me on telegram  : @Moskha
-*   📫  find me on instagram  : MKH.diary
+<p align="center">
+  Hi, I'm Mostafa Khajenezhad , I'm Mechatronic Master student In Iran 
+  <br>
+  💻 I love AI and Javascript Environment  
+  <br>
+  📚 I'm currently learning programming languages such as python , JavaScript , PHP 
+  <br>
+  💬 Currently I Learning About C# And Asp.core 
+  <br>
+  📫 You Can Contact Me with: 
+  <br>
+  Phone Number : +98 993 192 4726
+  <br>
+  find me on telegram  : @Moskha
+  <br>
+  find me on instagram  : MKH.diary
+</p>
 
 =============================
             
