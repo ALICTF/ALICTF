@@ -47,14 +47,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo"  />
 </div>
                     
-<hr>
-<h2 align="center">🔥Social Media 🔥</h2>
+
+<h2 align="center">🔥 Social Media 🔥</h2>
 <br>      
 <p align="center">
 <a href="https://www.instagram.com/mkh.diary" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 
-<b>My GitHub Stats</b>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ALICTF&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
