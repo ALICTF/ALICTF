@@ -1,4 +1,9 @@
-My name is Mostafa Khajenezhad
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm + Mostafa + Khajenezhad....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 ===============================
 
 Developer & Electronic circuit designer
@@ -48,8 +53,4 @@ Developer & Electronic circuit designer
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALICTF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ALICTF/ALICTF/output/snake.svg" alt="Snake animation" />
