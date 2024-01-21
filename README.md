@@ -4,8 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Im+Mostafa+Khajenezhad....;Developer+Electronic+&+circuit+designer;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-===============================
------------------------------
+
 <p align="center">
   Hi, I'm Mostafa Khajenezhad , I'm Mechatronic Master student In Iran 
   <br>
@@ -24,9 +23,9 @@
   find me on instagram  : MKH.diary
 </p>
 
-=============================
-            
-### Skills
+<hr>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -48,8 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="30" alt="php logo"  />
 </div>
                     
-### Socials
-                  
+<hr>
+<h2 align="center">🔥Social Media 🔥</h2>
+<br>      
 <p align="center">
 <a href="https://www.instagram.com/mkh.diary" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
