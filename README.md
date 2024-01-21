@@ -12,8 +12,6 @@
   <br>
   📚 I'm currently learning programming languages such as python , JavaScript , PHP 
   <br>
-  💬 Currently I Learning About C# And Asp.core 
-  <br>
   📫 You Can Contact Me with: 
   <br>
   Phone Number : +98 993 192 4726
