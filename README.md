@@ -1,42 +1,53 @@
 <div align="center">
-  <h1>Hi there, I'm Mostafa Khajenezhad 👋</h1>
-  <h3>🚀 Specialized Front-End Engineer | AI & Mechatronics Integrator</h3>
-  <p>I specialize in crafting high-performance, modular web applications with a strong focus on professional UI/UX, clean typography, and seamless animations. With a unique background merging Mechatronics, IoT, and AI, I build lightning-fast, intuitive interfaces for complex, mission-critical systems like AI-powered healthcare kiosks and real-time monitoring platforms.</p>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="Waving Hand" />
+  <a href="https://github.com/ALICTF">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&width=800&lines=Hello,+I'm+Mostafa+Khajenezhad;Specialized+Front-End+Engineer;AI+%26+Mechatronics+Integrator;Building+High-Performance+UIs" alt="Typing SVG" />
+  </a>
 </div>
-
-<br/>
-
-### 💡 What I Do
-- 💻 **Advanced Front-End Architecture:** Developing highly optimized, component-based UIs using **React**, **Astro**, and **TypeScript** for ultra-fast loading and exceptional user experiences.
-- 🤖 **AI & Data Visualization:** Bridging the gap between complex backend logic (NLP, RAG AI pipelines) and end-users through clean, interactive dashboards.
-- ⚙️ **Hardware-Software Synergy:** Connecting web interfaces to physical devices (IoT, LoRa, ESP32) for real-time data monitoring and control.
-
-<br/>
-
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
 
 <div align="center">
-  <p><strong>Front-End & UI/UX</strong></p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,astro,html,css,tailwind,sass,figma" alt="Front-End Stack" />
-  
-  <br><br>
-  <p><strong>Back-End, AI & Hardware</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,django,php,laravel,cpp,arduino,raspberrypi" alt="Backend and Hardware Stack" />
+  <p><em>Crafting modular, lightning-fast web architectures with a focus on clean typography, smooth transitions, and hardware-software synergy.</em></p>
+  <img src="https://komarev.com/ghpvc/?username=ALICTF&label=Profile%20Views&color=2CA5E0&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
 
-<h3 align="center">📈 GitHub Analytics</h3>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" align="left" style="border: none;">
+      <h3>💡 What I Do</h3>
+      <ul>
+        <li>💻 <strong>Component-Based UIs:</strong> Architecting scalable, ultra-fast applications using <strong>Astro</strong>, <strong>React</strong>, and <strong>TypeScript</strong>.</li>
+        <li>🤖 <strong>AI Dashboards:</strong> Bridging NLP and RAG pipelines with end-users through interactive, data-driven interfaces.</li>
+        <li>⚙️ <strong>Hardware Integration:</strong> Connecting web platforms to physical devices (IoT, ESP32, Kiosks) for real-time monitoring.</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <h3>🛠️ Tech Stack</h3>
+      <br/>
+      <img src="https://skillicons.dev/icons?i=js,ts,react,astro,tailwind,sass" alt="Front-End Stack" />
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=python,django,php,laravel,cpp,raspberrypi" alt="Backend and Hardware Stack" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">🔥 Performance & Analytics</h3>
 
 <div align="center">
-  <!-- توجه: در لینک‌های زیر، کلمه YOUR_USERNAME را با یوزرنیم دقیق گیت‌هاب خودت جایگزین کن -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="160" alt="Top Languages" />
+  <a href="https://github.com/ALICTF">
+    <img src="https://github-readme-stats.vercel.app/api?username=ALICTF&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&border_radius=10&title_color=2CA5E0" height="160" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/ALICTF">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALICTF&layout=compact&theme=react&hide_border=true&bg_color=0D1117&border_radius=10&title_color=2CA5E0" height="160" alt="Top Languages" />
+  </a>
 </div>
 
 <br/>
 
-<h3 align="center">📫 Let's Connect!</h3>
+<h3 align="center">📫 Let's Connect</h3>
 
 <div align="center">
   <a href="mailto:mostafakhajenezhad@gmail.com">
@@ -48,11 +59,7 @@
   <a href="https://instagram.com/mkh.diary">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
+  <br/><br/>
   <a href="https://buymeacoffee.com/mostafa_khajenezhad">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
