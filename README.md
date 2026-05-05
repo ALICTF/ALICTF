@@ -4,9 +4,6 @@
 <br/>
 
 <div align="center">
-  <!-- انیمیشن سه‌بعدی و مدرن میز کار توسعه‌دهنده -->
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="280" alt="3D Coding Animation" />
-  
   <h1>Hi there, I'm Mostafa Khajenezhad 👋</h1>
   <h3>🚀 Specialized Front-End Engineer | AI & Mechatronics Integrator</h3>
   <p>I specialize in crafting high-performance, modular web applications with a strong focus on professional UI/UX, advanced SEO, and seamless animations. With a unique background merging Mechatronics, IoT, and AI, I build lightning-fast, intuitive interfaces for complex, mission-critical systems like AI-powered healthcare kiosks and real-time monitoring platforms.</p>
@@ -15,13 +12,13 @@
 <br/>
 
 ### 💡 What I Do
--  **Advanced Front-End Architecture & SEO:** Developing highly optimized, component-based UIs using **Next.js**, **React**, **Astro**, and **TypeScript**. Focused on Server-Side Rendering (SSR), **SEO best practices**, and ultra-fast loading for exceptional user experiences.
--  **AI, Backend & Data Visualization:** Bridging the gap between complex backend logic (**Node.js**, NLP, RAG AI pipelines) and end-users through clean, interactive dashboards.
--  **Hardware-Software Synergy:** Connecting web interfaces to physical devices (IoT, LoRa, ESP32) for real-time data monitoring and control.
+- **Advanced Front-End Architecture & SEO:** Developing highly optimized, component-based UIs using **Next.js**, **React**, **Astro**, and **TypeScript**. Focused on Server-Side Rendering (SSR), **SEO best practices**, and ultra-fast loading for exceptional user experiences.
+- **AI, Backend & Data Visualization:** Bridging the gap between complex backend logic (**Node.js**, NLP, RAG AI pipelines) and end-users through clean, interactive dashboards.
+- **Hardware-Software Synergy:** Connecting web interfaces to physical devices (IoT, LoRa, ESP32) for real-time data monitoring and control.
 
 <br/>
 
-<h3 align="center"> The Engineering Arsenal</h3>
+<h3 align="center">The Engineering Arsenal</h3>
 
 <table align="center" style="border: none; background-color: transparent;">
   <tr style="border: none; background-color: transparent;">
@@ -53,14 +50,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ALICTF&theme=dracula&hide_border=true&background=0D1117" height="150" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- باگ آدرس‌دهی نمودار زبان‌ها در اینجا برطرف شد -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ALICTF&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ALICTF&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" height="150" alt="Top Languages" />
 </div>
 
 <br/>
